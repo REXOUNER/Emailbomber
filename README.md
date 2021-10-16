@@ -1,2 +1,2 @@
 # Emailbomber
-email bomber is simple emain spammer 
+Emailbomber its simple Email Spammer my future project is ph4ntom
